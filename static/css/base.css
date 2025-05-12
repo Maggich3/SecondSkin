@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+
+body{
+    font-family: "Tagesschrift", system-ui;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: rgb(163, 13, 13);
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+h3{
+    font-size: 36px;
+}
+h5{
+    font-size: 18px;
+    margin: 0;
+    font-weight: 600;
+}
